@@ -1,0 +1,69 @@
+{
+  "name": "Serghei Abramov",
+  "headline": "Finance Business Partner | Independent AI & Automation Projects",
+  "location": "Berlin, Germany",
+  "experience_years": 19,
+
+  "current_position": {
+    "role": "Finance Business Partner",
+    "company": "Takeda Germany",
+    "start_date": "2025-02",
+    "end_date": "present",
+    "responsibilities": [
+      "Financial business partnering",
+      "Performance analysis",
+      "Budgeting & forecasting",
+      "Management reporting"
+    ]
+  },
+
+  "previous_positions": [
+    {
+      "role": "Fixed Asset Controller",
+      "company": "Tesla Gigafactory Berlin-Brandenburg"
+    },
+    {
+      "role": "Controlling Manager",
+      "company": "Sumitomo Electric Bordnetze"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Code Academy Berlin",
+      "program": "Data Science & Machine Learning",
+      "start_date": "2024-09",
+      "end_date": "2025-02"
+    }
+  ],
+
+  "independent_projects_focus": [
+    "AI agents experimentation",
+    "LLM-driven automation workflows",
+    "Structured machine-readable CV architecture",
+    "Shopify automation & product structuring",
+    "Financial analytics with Python",
+    "Machine learning applied to business data"
+  ],
+
+  "core_skills": [
+    "FP&A",
+    "Controlling",
+    "IFRS / HGB",
+    "Process optimisation",
+    "Python (Pandas)",
+    "SQL",
+    "Machine Learning fundamentals",
+    "GitHub & Vercel deployment"
+  ],
+
+  "languages": {
+    "English": "Fluent",
+    "Russian": "Native",
+    "Romanian": "Advanced",
+    "German": "A2"
+  },
+
+  "linkedin": "https://www.linkedin.com/in/serghei-abramov-65455a79/",
+  "website": "https://sergheiabramov.com"
+}
