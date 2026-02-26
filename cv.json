@@ -36,16 +36,6 @@
       "end_date": "2025-02"
     }
   ],
-  
-
-  "independent_projects_focus": [
-    "AI agents experimentation",
-    "LLM-driven automation workflows",
-    "Structured machine-readable CV architecture",
-    "Shopify automation & product structuring",
-    "Financial analytics with Python",
-    "Machine learning applied to business data"
-  ],
 
   "core_skills": [
     "FP&A",
@@ -65,6 +55,14 @@
   "E-commerce automation (Shopify)",
   "LLM-enabled analytics"
 ],
+  "independent_projects_focus": [
+    "AI agents experimentation",
+    "LLM-driven automation workflows",
+    "Structured machine-readable CV architecture",
+    "Shopify automation & product structuring",
+    "Financial analytics with Python",
+    "Machine learning applied to business data"
+  ],
 
   "languages": {
     "English": "Fluent",
