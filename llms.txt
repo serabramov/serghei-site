@@ -1,0 +1,22 @@
+# AI-readable profile
+
+Site: https://sergheiabramov.com
+Owner: Serghei Abramov
+Type: Professional profile
+
+Main profile:
+https://sergheiabramov.com/
+
+Machine readable CV:
+https://sergheiabramov.com/cv
+
+LinkedIn:
+https://www.linkedin.com/in/serghei-abramov-65455a79/
+
+Topics:
+finance
+finance automation
+FP&A
+business analytics
+AI-enabled workflows
+python data analysis
