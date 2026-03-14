@@ -1,8 +1,9 @@
 {
   "name": "Serghei Abramov",
-  "headline": "AI-Enabled Business Transformation | Finance & Automation Architecture",
+  "headline": "Finance Business Partner | Finance Automation & Decision Systems",
   "location": "Berlin, Germany",
-  "professional_summary": "Finance Business Partner specialised in performance management and business transformation. Building independent AI and automation projects focused on decision support, workflow architecture and structured business design, integrating finance expertise with applied machine learning experimentation.",
+
+  "professional_summary": "Finance Business Partner specializing in financial performance management, controlling and reporting in international manufacturing environments. Focus on finance automation, decision support systems and structured business data for AI-assisted analysis.",
 
   "current_position": {
     "role": "Finance Business Partner",
@@ -12,7 +13,7 @@
     "responsibilities": [
       "Financial business partnering",
       "Performance analysis",
-      "Budgeting & forecasting",
+      "Budgeting and forecasting",
       "Management reporting"
     ]
   },
@@ -40,28 +41,29 @@
   "core_skills": [
     "FP&A",
     "Controlling",
-    "IFRS / HGB",
-    "Process optimisation",
+    "Financial reporting",
+    "Process automation",
     "Python (Pandas)",
     "SQL",
-    "Machine Learning fundamentals",
+    "Data analysis",
+    "Business partnering",
     "GitHub & Vercel deployment"
   ],
+
   "transformation_focus": [
-  "AI-assisted decision systems",
-  "Process automation architecture",
-  "Agent-based workflow experimentation",
-  "Machine-readable business structuring",
-  "E-commerce automation (Shopify)",
-  "LLM-enabled analytics"
-],
+    "Finance automation",
+    "AI-assisted decision systems",
+    "Process improvement",
+    "Structured machine-readable business data",
+    "LLM-enabled analytics"
+  ],
+
   "independent_projects_focus": [
     "AI agents experimentation",
     "LLM-driven automation workflows",
-    "Structured machine-readable CV architecture",
-    "Shopify automation & product structuring",
+    "Machine-readable professional CV",
     "Financial analytics with Python",
-    "Machine learning applied to business data"
+    "AI-enabled business analysis"
   ],
 
   "languages": {
@@ -71,6 +73,8 @@
     "German": "A2"
   },
 
-  "linkedin": "https://www.linkedin.com/in/serghei-abramov-65455a79/",
-  "website": "https://sergheiabramov.com"
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/serghei-abramov-65455a79/",
+    "website": "https://sergheiabramov.com"
+  }
 }
